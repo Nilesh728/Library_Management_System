@@ -823,7 +823,6 @@ void start(){
     cout<<"\n"<<setw(38)<<"CREATED BY: ";
     cout<<"\n"<<setw(103)<<"-----------------------------------------------------------------------------";
     cout<<"\n"<<setw(37)<<"Abhay Ojha"<<setw(33)<<"Suryali Suman"<<setw(32)<<"Nilesh Pandey";
-    cout<<"\n"<<setw(36)<<"20BCS3857"<<setw(30)<<"20BCS3866"<<setw(32)<<"20BCS3860";
     cout<<"\n"<<setw(103)<<"-----------------------------------------------------------------------------";
     int opt;
     cout<<"\n\n"<<setw(47)<<"Press 1 for Main Menu";
